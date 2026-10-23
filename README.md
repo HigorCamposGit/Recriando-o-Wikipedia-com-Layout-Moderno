@@ -40,7 +40,10 @@ Validação: Estrutura otimizada para passar com sucesso em ferramentas de audit
 🛠️ Tecnologias Utilizadas.
 `HTML5` (Semântico e estruturado).
 
-`CSS3` (Estilização e comportamento de rolagem suave).
+`CSS3` (Estilização e comportamento de rolagem suave). 
 
-`Git e GitHub` (Versionamento e documentação).
+`Git` e `GitHub` (Versionamento e documentação).
+
+
+
 ---
