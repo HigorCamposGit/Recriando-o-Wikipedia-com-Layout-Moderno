@@ -25,6 +25,7 @@ O projeto foi desenvolvido para fixar técnicas essenciais de estruturação web
 ```
 ---
 ♿ Acessibilidade (`A11y`) Aplicada no Projeto.
+---
 Na tecnologia e no desenvolvimento web, `A11y` significa projetar e desenvolver sites, aplicativos e sistemas para que pessoas com deficiência (visual, auditiva, motora ou cognitiva) possam navegar, interagir e compreender o conteúdo com total autonomia, muitas vezes utilizando tecnologias assistivas como leitores de tela.
 
 Pensando nas boas práticas exigidas em avaliações e no uso de ferramentas assistivas, o projeto incorporou:
