@@ -38,6 +38,7 @@ Navegação e Rótulos: Inclusão de atributos aria-label nas seções de navega
 Validação: Estrutura otimizada para passar com sucesso em ferramentas de auditoria de código, como a extensão `WAVE` para Google Chrome.
 
 🛠️ Tecnologias Utilizadas.
+---
 `HTML5` (Semântico e estruturado).
 
 `CSS3` (Estilização e comportamento de rolagem suave). 
